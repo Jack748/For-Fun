@@ -1,0 +1,30 @@
+all'inizio del file: @echo off
+
+tag :[parola]
+goto :[parola]
+
+set [nome var] = [valore]
+es. x=9 oppure cacca=puzza
+%cacca% da come risultato "puzza"
+varianti:
+	set /a x=5+4 --> %x% = 9 --> set /a x=%x%+4 --> %x%=13
+
+	set /p x= --> il programma si ferma e ti chiede
+	set /p x=<[nome file] --> il programma legge il file
+
+
+if [condizione] comando
+	condizioni:
+			lss (leq) = less than
+			gtr (geq) = greater
+			equ (neq) = uguale
+			exist
+			defined = la variabile esiste gia
+pause --> premi un pulsante per continuare...
+pause >null ---> pausa senza dirlo
+
+>[nome del file] alla fine del comando --> redirect output in file
+>> --> append invece di sovrascr.
+
+
+			
