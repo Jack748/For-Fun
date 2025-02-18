@@ -10,8 +10,6 @@ Here is a brief description for each. They are here in chronological order, I gu
 
 **word embeddings** --> I played around with embeddings. I find so fascinating that words have a meaning that LLMs can put into a space. Then I checked distances and similarities between countries, cities, colors, food, dog breeds and similar. That was fun.  
 
-**sleep** --> I was trying to optimize my sleep quality so I decided to log everyday all the factors that I thought influenced the quality. It was meant to be only a spreedsheet but then I tried to do some data analisys.
-
 **sudoku.py, life_expectancy.py, blackjack.py** --> The python version of what I did with Java years before
 
 **data visualization** --> I don' remember that but apparently is shit. Visualizing data about countries with Pandas and Matplotlib.  
